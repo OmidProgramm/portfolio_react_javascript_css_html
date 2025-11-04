@@ -1,5 +1,5 @@
 import './About.css';
-import aboutImage from '../../assets/images/bg-2.jpg';
+import aboutImage from '../../assets/images/bird.jpg';
 function About(){
     return (
         <section id="about">
