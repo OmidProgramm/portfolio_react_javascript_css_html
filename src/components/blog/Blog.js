@@ -1,8 +1,8 @@
 import './Blog.css';
 import BlogItem from './BlogItem';
-import blog1Image from '../../assets/images/post-1.jpg';
-import blog2Image from '../../assets/images/post-2.jpg';
-import blog3Image from '../../assets/images/post-3.jpg';
+import blog1Image from '../../assets/images/pic1.jpg';
+import blog2Image from '../../assets/images/pic2.jpg';
+import blog3Image from '../../assets/images/pic3.jpg';
 function Blog(){
     let blogs = [
         {
