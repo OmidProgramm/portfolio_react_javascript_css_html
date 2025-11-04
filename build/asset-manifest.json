@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio_react_javascript_css_html/static/css/main.7ba0537e.css",
+    "main.js": "/portfolio_react_javascript_css_html/static/js/main.c20f646a.js",
+    "static/media/Poppins-Regular.ttf": "/portfolio_react_javascript_css_html/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/post-1.jpg": "/portfolio_react_javascript_css_html/static/media/post-1.25913435c5fbc36e5aca.jpg",
+    "static/media/post-2.jpg": "/portfolio_react_javascript_css_html/static/media/post-2.a148d0988a3b605915c3.jpg",
+    "static/media/post-3.jpg": "/portfolio_react_javascript_css_html/static/media/post-3.6a0c63d650d55aa77e19.jpg",
+    "static/media/hero-bg.jpg": "/portfolio_react_javascript_css_html/static/media/hero-bg.73c37175ba0b271d7678.jpg",
+    "static/media/about.jpg": "/portfolio_react_javascript_css_html/static/media/about.60e9d7dab4276c8d46aa.jpg",
+    "index.html": "/portfolio_react_javascript_css_html/index.html",
+    "main.7ba0537e.css.map": "/portfolio_react_javascript_css_html/static/css/main.7ba0537e.css.map",
+    "main.c20f646a.js.map": "/portfolio_react_javascript_css_html/static/js/main.c20f646a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ba0537e.css",
+    "static/js/main.c20f646a.js"
+  ]
+}
