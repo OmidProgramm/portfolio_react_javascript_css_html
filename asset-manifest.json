@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio_react_javascript_css_html/static/css/main.eaf02cf5.css",
+    "main.css": "/portfolio_react_javascript_css_html/static/css/main.7af1602d.css",
     "main.js": "/portfolio_react_javascript_css_html/static/js/main.3312b71b.js",
     "static/media/pic3.jpg": "/portfolio_react_javascript_css_html/static/media/pic3.d3126d739feb31aaf154.jpg",
+    "static/media/headerfoto.jpg": "/portfolio_react_javascript_css_html/static/media/headerfoto.e74d6961a52dc6956608.jpg",
     "static/media/pic2.jpg": "/portfolio_react_javascript_css_html/static/media/pic2.d8ac6e816619e4b70190.jpg",
     "static/media/pic1.jpg": "/portfolio_react_javascript_css_html/static/media/pic1.976ea218d6e2caaaa5fb.jpg",
     "static/media/bird.jpg": "/portfolio_react_javascript_css_html/static/media/bird.78dcc23f75a5fb38ac77.jpg",
     "static/media/Poppins-Regular.ttf": "/portfolio_react_javascript_css_html/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
-    "static/media/10.jpg": "/portfolio_react_javascript_css_html/static/media/10.add102e5bcaea590e25d.jpg",
     "index.html": "/portfolio_react_javascript_css_html/index.html",
-    "main.eaf02cf5.css.map": "/portfolio_react_javascript_css_html/static/css/main.eaf02cf5.css.map",
+    "main.7af1602d.css.map": "/portfolio_react_javascript_css_html/static/css/main.7af1602d.css.map",
     "main.3312b71b.js.map": "/portfolio_react_javascript_css_html/static/js/main.3312b71b.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaf02cf5.css",
+    "static/css/main.7af1602d.css",
     "static/js/main.3312b71b.js"
   ]
 }
